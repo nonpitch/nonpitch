@@ -2,20 +2,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greeting!,+I'm+Pitchayapat;" />
 </h1>
 
-<h3 align="left">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="left">Computer Engineering Student who learn to code👨‍💻</h3>
 
 <br/>
 
 <div align="left">
+    
+👋 My name is Pitchayapat Wareevanich | You can also called me "Non"
+
+🇹🇭 Currently in Bangkok, Thailand
+
+📊 Product Owner Intern @MakroPro
+
+🌟 Past Experienced in Hackathons & Case Competition (Since 2019)
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
 
 <div align="left"> 
