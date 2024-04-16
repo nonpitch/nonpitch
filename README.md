@@ -14,7 +14,7 @@
 
 📊 Product Owner Intern @MakroPro
 
-🌟 Past Experienced in Hackathons & Case Competition (Since 2019)
+💼 Past Experienced in Hackathons & Case Competition (Since 2019)
 
  </div>
 
@@ -22,8 +22,8 @@
   <a href="mailto:pitchayapat.waree@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/pitchayapat-wareevanich" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="www.linkedin.com/in/pitchayapat-wareevanich">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
