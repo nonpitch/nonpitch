@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=1e6eeb&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greeting!,+I'm+Pitchayapat;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=3bd253&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greeting!,+I'm+Pitchayapat;" />
 </h1>
 
 <h3 align="left">Computer Engineering Student Passionate in Programming👨‍💻</h3>
