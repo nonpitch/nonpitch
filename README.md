@@ -15,6 +15,8 @@
 📊 Product Owner Intern @MakroPro
 
 🌟 Past Experienced in Hackathons & Case Competition (Since 2019)
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-%237289DA.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pitchayapat-wareevanich)
  
  </div>
 
