@@ -1,5 +1,5 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greeting!,+I'm+Pitchayapat;" />
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&width=500&height=70&duration=4000&lines=Greeting!,+I'm+Pitchayapat;" />
 </h1>
 
 <h3 align="left">Computer Engineering Student who learn to code👨‍💻</h3>
@@ -16,8 +16,6 @@
 
 🌟 Past Experienced in Hackathons & Case Competition (Since 2019)
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-%237289DA.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pitchayapat-wareevanich)
- 
  </div>
 
 <div align="left"> 
