@@ -14,6 +14,8 @@
 
 📊 Quality Assurance Engineer @SCB – Siam Commercial Bank
 
+🧑🏻‍💻 Product Owner Intern @Makro PRO
+
 💼 Past Experienced in Hackathons & Case Competition (Since 2019)
 
  </div>
