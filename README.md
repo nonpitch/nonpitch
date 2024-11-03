@@ -12,7 +12,7 @@
 
 🇹🇭 Currently in Bangkok, Thailand
 
-📊 Product Owner Intern @MakroPro
+📊 Quality Assurance Engineer @SCB – Siam Commercial Bank
 
 💼 Past Experienced in Hackathons & Case Competition (Since 2019)
 
